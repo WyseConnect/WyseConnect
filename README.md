@@ -36,7 +36,7 @@ Key aspects of Wyse Connect include:
 
 [![website](./Facebook.svg)](https://www.facebook.com/wyseconnectofficial)
 &nbsp;&nbsp;
-[![website](./Telegram.svg)](https://te.me/wyseconnect)
+[![website](./Telegram.svg)](https://te.me/wyseconnectofficial)
 &nbsp;&nbsp;
 [![website](./Youtube.svg)](https://www.youtube.com/@wyseconnect)
 &nbsp;&nbsp;
