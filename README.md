@@ -34,13 +34,13 @@ Key aspects of Wyse Connect include:
 
 ### Connect with Us:
 
-[![website](./img/Facebook.svg)](https://www.facebook.com/wyseconnectofficial)
+[![website](./Facebook.svg)](https://www.facebook.com/wyseconnectofficial)
 &nbsp;&nbsp;
-[![website](./img/Telegram.svg)](https://te.me/wyseconnect)
+[![website](./Telegram.svg)](https://te.me/wyseconnect)
 &nbsp;&nbsp;
-[![website](./img/Youtube.svg)](https://www.youtube.com/@wyseconnect)
+[![website](./Youtube.svg)](https://www.youtube.com/@wyseconnect)
 &nbsp;&nbsp;
-[![website](./img/Twitter.svg)](https://x.com/wyseconnect)
+[![website](./Twitter.svg)](https://x.com/wyseconnect)
 &nbsp;&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
